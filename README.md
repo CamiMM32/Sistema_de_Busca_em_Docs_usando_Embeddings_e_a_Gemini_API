@@ -1,0 +1,1 @@
+# Sistema_de_Busca_em_Docs_usando_Embeddings_e_a_Gemini_API
